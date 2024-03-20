@@ -34,3 +34,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+app/week-5-a/_js.txt
+app/week-5/item-list.js
+app/week-5/item.js
+app/week-5/items.json
+app/week-5/page.js
+week-6/item-list.js
+week-6/item.js
+week-6/items.json
+week-6/page.js
